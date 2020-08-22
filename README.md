@@ -14,12 +14,17 @@ This repository contains list of all my applications which i have built in flutt
 |02|My Portfolio|A portfolio application.|[Repo Link](https://github.com/imKashyap/MyPortfolio)|
 |03|Spendless|A Personal expenses management app.|[Repo Link](https://github.com/imKashyap/Spendless)|
 |04|Klimatic|A 7 day realtime weather forecast application.|[Repo Link](https://github.com/imKashyap/Klimatic)|
-|05|Flash-Chat|A basic group chat application.|[Repo Link](https://github.com/imKashyap/Flash-Chat)|
+|05|Flash Chat|A basic group chat application.|[Repo Link](https://github.com/imKashyap/Flash-Chat)|
 |06|Pairs  | A fun little memory game. |[Repo Link](https://github.com/imKashyap/Pairs)|
 |07|Todoey|A Todo list management application.|[Repo Link](https://github.com/imKashyap/Todoey)|
 |08|Tip Calculator|A Tip calculator application.|[Repo Link](https://github.com/imKashyap/Tip-Calculator)|
 |09|BMI Calculator|A BMI Calculator application.|[Repo Link](https://github.com/imKashyap/BMI-Calculator)|
 |10|Meow Meow| A Getting started with animations in flutter application.|[Repo Link](https://github.com/imKashyap/Meow-Meow)|
+|11|G Calculator|The UI design of Google Calculator app.|[Repo Link](https://github.com/imKashyap/GCalculator-UI)|
+|12|Dicee|A basic flutter app on rolling of dices.|[Repo Link](https://github.com/imKashyap/Dicee)|
+|13|Destini|A basic situation based game.|[Repo Link](https://github.com/imKashyap/Destini)|
+|14|Xylophone|A Sound playing app demonstrating the use of API calls.|[Repo Link](https://github.com/imKashyap/Xylophone)|
+|15|Quizzler|A fun quiz game in Flutter.|[Repo Link](https://github.com/imKashyap/Quizzler)|
 
 
 
