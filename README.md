@@ -37,6 +37,7 @@ This repository contains list of all my applications which i have built in flutt
 |03|Cooking Up|A coooking application with recipes available for top meals around the world.|[Repo Link](https://github.com/imKashyap/Cooking-Up)|
 |04|Tic Tac Toe| The easy peasy tic tac toe game.|[Repo Link](https://github.com/imKashyap/Tic-Tac-Toe)|
 |05|Movi Tym| An IMDB kind of application.|[Repo Link](https://github.com/imKashyap/Movi-Tym)|
+|06|Wally| A wallpapers application.|[Repo Link](https://github.com/imKashyap/Wally)|
 
 
 - #### Advanced level Applications :
@@ -48,3 +49,4 @@ This repository contains list of all my applications which i have built in flutt
 |03|Flutter News|An application to read all the recent news like DailyHunt.|[Repo Link](https://github.com/imKashyap/Flutter-News)|
 |04| Shopify |A basic e-commerce application.| [Repo Link](https://github.com/imKashyap/Shopify) |
 |05|Break Bricks|A minimalistic game to fight against enemies.|[Repo Link](https://github.com/imKashyap/Break-Bricks)|
+
